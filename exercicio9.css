@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+    background-image: url(https://observatoriog.bol.uol.com.br/wordpress/wp-content/uploads/2021/02/118566.jpg);
+    background-size: cover;
+       background-repeat: no-repeat;
+}
+
+h1 {
+    color: rgb(90, 5, 201);
+}
+
+button {
+    background-color: rgb(10, 223, 10);
+    color: aliceblue;
+    border: none;
+    padding: 20px 40px;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+p{
+    font-size: 20px;
+    margin-top: 20px;
+    color: aliceblue;
+}
