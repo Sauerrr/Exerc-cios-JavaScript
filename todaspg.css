@@ -7,6 +7,8 @@
 
 body {
     height: 25rem;
+    background: linear-gradient(to right, #ff1493, #ff8c00, #ff00ff);
+    color: #ffffff; 
 }
 
 
@@ -23,6 +25,10 @@ h1 {
 
 }
 
+.imgc {
+    width: 25rem;
+}
+
 .p1 {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -37,7 +43,7 @@ h2 {
 
 
 footer{
-    background-color: #000000;
+    background: linear-gradient(to right, #ff1493, #ff8c00, #ff00ff);
 }
 .caixa {
     width: 940px;
@@ -55,7 +61,7 @@ nav li {
 
 nav a {
     text-transform: uppercase;
-    color: #000000;
+    color: #ffffff;
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
@@ -64,4 +70,11 @@ nav a {
 nav a:hover {
     color: #ee07c7cb;
     text-decoration: underline;
+}
+
+.copyright {
+    color: rgb(0, 0, 0);
+	font-size: 13px;
+	margin: 20px 0 0;
+    text-align: center;
 }
